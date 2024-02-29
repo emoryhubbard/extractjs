@@ -4,7 +4,7 @@ The ExtractJS project addresses a specific problem encountered during the develo
 
 ## Solution Overview
 
-**[ExtractJS Demo Video](https://youtu.be/zm6YHLV1Dag)**
+**[ExtractJS Demo Video](https://youtu.be/nbhQea9Y9FM)**
 
 To address the challenge of accurately extracting JavaScript code from text, several approaches were attempted. Each of them have their pros and cons.
 
